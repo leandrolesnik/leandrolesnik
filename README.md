@@ -57,4 +57,5 @@
  <div>
  ![Snake animation](https://github.com/leandrolesnik/leandrolesnik/blob/output/github-contribution-grid-snake.svg)
  </div>
-<br><br>
+<br>
+ <br>
