@@ -55,7 +55,7 @@
 <p><a href="https://www.buymeacoffee.com/zants"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="zants" /></a></p><br><br>
  -->
  <div>
-<!--  ![Snake animation](https://github.com/leandrolesnik/leandrolesnik/blob/output/github-contribution-grid-snake.svg) -->
+  ![Snake animation](https://github.com/leandrolesnik/leandrolesnik/blob/output/github-contribution-grid-snake.svg) 
  </div>
 <br>
  <br>
