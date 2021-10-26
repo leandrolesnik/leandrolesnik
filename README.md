@@ -26,8 +26,8 @@
 </div> -->
 
 <h1 align="center">Oi 👋, eu sou o Leandro Lesnik</h1>
-<h3 align="center">Aprendiz de frontend e mobile!</h3>
-<p>- 🌱 Atualmente estou estudando na SoulCode e aprendendo **HTML, CSS, Javascript, Bootstrap, Reac Native e Flutter**</p>
+<h3 align="center">Dev Front-End e Mobile!</h3>
+<p>- 🌱 Atualmente estou estudando e aprendendo **HTML, CSS, Javascript, Bootstrap, Reac Native e Flutter**</p>
 <div>
   <a href="https://github.com/leandrolesnik">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandrolesnik&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
